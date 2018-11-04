@@ -1,0 +1,12 @@
+name: intro-r-drug-dev-shiny-day
+title: Intro-R-Drug-Dev-Shiny-Day
+username: phil
+account: phil
+server: colorado.rstudio.com
+hostUrl: http://colorado.rstudio.com:3939/__api__
+appId: 1607
+bundleId: 21250
+url: http://colorado.rstudio.com:3939/content/1607/
+when: 1541350995.84781
+asMultiple: FALSE
+asStatic: FALSE
